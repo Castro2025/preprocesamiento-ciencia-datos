@@ -1,6 +1,6 @@
 Documentación del Proyecto
 Preprocesamiento de Ciencia de Datos
-1. Introducción
+### 1. Introducción
 
 En este proyecto quise poner en práctica lo que aprendí sobre Git y GitHub, sobre todo para entender mejor cómo manejar versiones y trabajar en grupo dentro de un proyecto de Ciencia de Datos.
 
@@ -8,7 +8,7 @@ Además, me enfoqué en hacer un proceso completo de preprocesamiento de datos u
 
 La idea principal fue mejorar mis habilidades tanto en el manejo de versiones como en la limpieza y preparación de datos, que son pasos súper importantes en cualquier proyecto de ciencia de datos.
 
-2. Configuración del entorno de trabajo
+### 2. Configuración del entorno de trabajo
 
 Para desarrollar el proyecto usé Visual Studio Code, con la integración de Git y Python 3.10.
 
@@ -88,12 +88,6 @@ Pasos realizados:
 5. Simulación de revisión y aprobación.
 6. Fusión (merge) de la rama secundaria con la principal.
 7. Eliminación de la rama `feature-preprocesamiento`.
-
-Capturas sugeridas:
-- Consola mostrando comandos Git.
-- Pantalla del Pull Request en GitHub.
-- Confirmación del merge.
-- Ejecución del flujo en GitHub Actions.
 
 ---
 
