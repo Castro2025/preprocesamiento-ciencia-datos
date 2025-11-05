@@ -115,14 +115,6 @@ También reforcé mis conocimientos sobre limpieza, normalización y codificaci�
 
 ---
 
-###  Sección de evidencias 
-
-- Captura 1: ejecución de comandos `git add`, `git commit`, `git push`.  
-- Captura 2: página del Pull Request y fusión en GitHub.  
-- Captura 3: ejecución exitosa del workflow en GitHub Actions.  
-- Captura 4: salida del script `preprocesamiento.py` mostrando el dataset procesado.
-
----
 
 ### 10. Enlace al repositorio final  
  [https://github.com/Castro2025/preprocesamiento-ciencia-datos](https://github.com/Castro2025/preprocesamiento-ciencia-datos)
